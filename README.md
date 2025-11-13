@@ -1,2 +1,2 @@
 # online_shoping
-Online shoping website using django
+Online shoping website using Python django Stack
